@@ -2318,6 +2318,81 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
 }
+.cid-qWAxh9JF1z {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qWAxh9JF1z h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qWAxh9JF1z p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-qWAxh9JF1z .card-img {
+  width: auto;
+}
+.cid-qWAxh9JF1z .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-qWAxh9JF1z .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-qWAxh9JF1z .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qWAxh9JF1z .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qWAyredir4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qWAyredir4 h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qWAyredir4 p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-qWAyredir4 .card-img {
+  width: auto;
+}
+.cid-qWAyredir4 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-qWAyredir4 .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-qWAyredir4 .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qWAyredir4 .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qWAyredir4 P {
+  text-align: left;
+}
 .cid-qWAsXKOAUN {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -2343,33 +2418,6 @@ body {
 .cid-qWAsXLdlv0 .card-img span {
   font-size: 96px;
   color: #149dcc;
-}
-.cid-qWAsXLTzzw {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qWAsXLTzzw .title {
-  margin-bottom: 2rem;
-}
-.cid-qWAsXLTzzw .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qWAsXLTzzw a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qWAsXLTzzw a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qWAsXLTzzw .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qWAsXLTzzw .input-group-btn {
-  display: block;
-  text-align: center;
 }
 .cid-qWAsXMnwr5 {
   padding-top: 30px;

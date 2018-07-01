@@ -4698,7 +4698,7 @@ body {
 }
 .cid-qWASinE6n9 {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-qWASinE6n9 h4 {
@@ -4735,6 +4735,17 @@ body {
   .cid-qWASinE6n9 .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-qWAVvwg2kL {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qWAVvwg2kL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qWAVvwg2kL .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qWAJiKsZGU {
   padding-top: 90px;
